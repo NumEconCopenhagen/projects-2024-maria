@@ -1,9 +1,7 @@
-# \[Group name\]
+# \[Maria\]
 
 **Group members:**
-- A
-- B
-- C
+- Maria Thøisen Larsen, zwx215
 
 This repository contains  
 1. Inaugural project. 
