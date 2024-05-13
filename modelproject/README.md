@@ -1,6 +1,6 @@
 # Model analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled **Model project: Cournot competition** and is about how the cournot model gives insight into market structures' effect on effeciency and consumer welfare.
 
 The **results** of the project can be seen from running [modelproject.ipynb](modelproject.ipynb).
 
